@@ -1,0 +1,75 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="727" fromTop="12" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/d:css/f:style.css" caret="2551" fromTop="30" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/d:css/f:layout.css" caret="318" fromTop="9" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Contact.aspx" caret="613" fromTop="12" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Default.aspx.cs" caret="409" fromTop="19" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Default.aspx" caret="616" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="7086" fromTop="33" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="7086" fromTop="28" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="7086" fromTop="38" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/d:css/f:style.css" caret="2551" fromTop="30" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="7086" fromTop="2" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="4911" fromTop="19" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="3562" fromTop="5" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="2289" fromTop="15" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="1059" fromTop="12" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="1976" fromTop="32" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="1966" fromTop="32" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="1322" fromTop="18" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="834" fromTop="7" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="3234" fromTop="38" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="2566" fromTop="19" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="3013" fromTop="29" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="3234" fromTop="22" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="4580" fromTop="38" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="4285" fromTop="29" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="3833" fromTop="19" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="4580" fromTop="26" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="5870" fromTop="38" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="5196" fromTop="16" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="5694" fromTop="27" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="5868" fromTop="30" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Service.aspx" caret="498" fromTop="10" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Default.aspx" caret="644" fromTop="17" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Default.aspx.cs" caret="400" fromTop="16" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Default.aspx.cs" caret="441" fromTop="21" />
+      <File id="8AB5988C-69A3-4979-B16C-1475F91A9BB2/f:Default.aspx" caret="616" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="LabelOne" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

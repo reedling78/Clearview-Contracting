@@ -1,0 +1,417 @@
+/* =================== Getting the new tags to behave START ====================== */
+
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video { display: block; }
+mark, rp, rt, ruby, summary, time { display: inline }
+
+/* ==================== Getting the new tags to behave END ======================= */
+
+
+
+
+
+/* ========================= Global properties START ============================= */
+
+body {
+	background:url(../images/top_bg.jpg) center top no-repeat #fff;
+	min-width: 980px;
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1em;
+	color: #393939;
+}
+
+html {
+	background: transparent;
+	min-width: 980px;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	vertical-align: top;
+	font-size: 100%;
+}
+
+div {
+	border: 0 none;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: top;
+}
+
+a {
+	outline: none;
+	color: #fff;
+	text-decoration:none;
+	border-bottom:dotted 1px #fff;
+}
+
+a:hover {
+	text-decoration:none;
+	border-bottom:dotted 1px #06B906;
+	color: #06B906;
+}
+	
+.orange{color:#06B906}
+
+h2{font-size:2.5em; line-height:1.2em; color:#06B906; padding-top:9px; margin-bottom:19px}
+	h2.extra{margin-bottom:15px}
+
+h3
+{
+    font-size:1.5em;
+    color:#fff;
+    margin-bottom:5px
+    }
+
+h6{line-height:18px; font-size:1.083em}
+
+p{color:#b8b8b8; font-size:1.083em; line-height:18px; margin-bottom:18px}
+	p.extra{margin-bottom:26px}
+	p.extra1{margin-bottom:16px}
+	p.extra2{margin-bottom:22px}
+	p.extra3{margin-bottom:13px}
+
+div.extra{margin-bottom:30px}
+div.extra1{margin-bottom:26px}
+
+ul.extra{margin-bottom:27px}
+
+.extra0{margin-bottom:0 !important}
+
+/* ========================= Global properties END =============================== */
+
+
+.required 
+{
+    color:Red;
+    padding-right:5px;
+    }
+
+
+
+/* ========================= Global Structure START ============================== */
+
+#main {
+	width: 980px;
+	margin: 0 auto;
+	font-size: 0.75em;
+}
+
+#page1 #main{background:url(../images/main_bg.jpg) center 6px no-repeat;}
+
+header {
+	position: relative;
+	height:373px;
+}
+#page1 header{height:729px}
+
+#content {
+	margin-bottom:16px;
+	position:relative;
+	background:#000;
+	position:relative;
+	border:1px solid #000;
+}
+#page1 #content{height:57px; text-align:center; padding-right:9px; background:#fff}
+footer {
+	height:47px;
+	overflow: hidden;
+	border-top:1px solid #eaeaea;
+	color:#adadad
+}
+
+.bg{background:url(../images/main_bg2.jpg) center 6px no-repeat; min-width:980px}
+/* ========================= Global Structure END ================================ */
+
+
+
+.threeCol 
+{
+    width:130px;
+    float:left;
+    }
+    
+.fourCol 
+{
+    width:170px;
+    float:left;
+    }
+
+
+/* ====================== Left & Right alignment START =========================== */
+
+.fleft {
+	float: left;
+}
+
+.fright {
+	float: right;
+}
+
+.col-1, .col-2, .col-3, .col-4 {
+	float: left;
+	overflow: hidden;
+}
+
+.block-1, .block-2, .block-3, .block-4 {
+	float: left;
+	overflow: hidden;
+}
+
+.aligncenter {
+	padding: 15px 0 0 0;
+	text-align: center;
+}
+
+.wrapper {
+	width: 100%;
+	overflow: hidden;
+}
+
+.clear {
+	clear: both;
+	font-size: 0%;
+	line-height: 0%;
+	height: 0;
+}
+
+/* ====================== Left & Right alignment END ============================= */
+
+
+
+
+
+/* ============================== header START =================================== */
+
+#logo {position:absolute; top: 59px; left:0; color:#2c2b2b; line-height:1.2em}
+#page1 #logo {top: 650px; left: 314px}
+	#logo a{display:block; font-size:2.667em; text-decoration:none; line-height:1.2em; color:#2c2b2b}
+	#logo a:hover{text-decoration:none}
+		#logo .slogan{color:#7d7c7b; font-weight:normal; display:inline-block; margin:-1px 0 0 38px}
+
+nav{font-size:1.833em; position:absolute; top:151px; width:242px; left:8px}
+	nav a{color:#454545; line-height:37px; padding-left:52px; display:inline-block; border:none;}
+	nav a:hover, nav .active a{color:#06B906; text-decoration:none; border:none;}
+	nav .active{background:url(../images/menu_active.jpg) left center no-repeat}
+	nav li{margin-bottom:3px; display:block}
+/* =============================== header END ==================================== */
+
+
+
+
+
+/* ============================= content START =================================== */
+
+#indent {
+	padding: 27px 0 33px 29px;
+}
+#page7 #indent{padding: 27px 40px 33px 59px;}
+.line_ver{background-image:url(../images/line.gif); background-repeat:repeat-y}
+
+.list{ margin-bottom:21px}
+	.list h6{font-size:1em; line-height:26px}
+	.list li{overflow:hidden; color:#eee; background:url(../images/list_marker.gif) left 9px no-repeat; padding-left:23px}
+	.list p{line-height:17px; color:#808080; margin-bottom:15px}
+
+.list1{padding-top:4px; overflow:hidden}
+	.list1 img{margin-bottom:26px}
+	.list1 li{float:left; width:173px; margin-right:10px}
+	.list1 p{margin-bottom:26px}
+
+.block-1{width:270px; margin-right:17px}
+.block-2{width:242px}
+/* ============================== content END ==================================== */
+
+
+
+/* =================== txt, links, lines, titles START =========================== */
+a.more{background:#06B906; display:inline-block; font-size:1.083em; line-height:25px; font-weight:bold; color:#fff; padding:0 12px;
+       text-decoration:none;}
+	a.more:hover{text-decoration:none; color:#000; text-decoration:none;}
+	
+a.close{position:absolute; line-height:25px; display:inline-block; background:#ff5003; color:#fff; font-weight:bold; top:-12px; right:0; font-size:1.083em; padding:0 9px}
+	a.close span{margin-left:4px; cursor:pointer}
+	a.close:hover{text-decoration:none; color:#000}
+/* ==================== txt, links, lines, titles END ============================ */
+
+
+
+
+
+/* ============================= forms START ===================================== */
+
+    #contact_form {width:533px; overflow: hidden; padding-top:18px; color:#b8b8b8}
+	#contact_form input, #contact_form textarea{float:left; margin:0; border:1px solid #353535; color:#b8b8b8; background:#0d0d0d; font:13px Arial, Helvetica, sans-serif; padding:3px 5px 4px; width:250px; outline:none}
+	#contact_form textarea{height:146px; width:250px; overflow:auto; float:left}
+	#contact_form input{width:230px; }
+	#contact_form div{width:100%; overflow:hidden; margin-bottom:22px; }
+	#contact_form .fleft, #contact_form .fright{margin:0; width:248px}
+	#contact_form .fright{width:246px}
+	#contact_form .name{line-height:18px; margin-bottom:0; font-size:1.083em; padding-left:0px}
+	#contact_form .wrapper{margin:0}
+	#contact_form .buttons{padding-top:8px; text-align:right; margin:0}
+	#contact_form .buttons a.more{margin-left:16px;}
+
+/* ============================== forms END ====================================== */
+
+
+
+
+
+/* ============================= other START ===================================== */
+
+.pic_indent {margin: 0 7px 0 0;}
+.pic_indent1{margin:4px 29px 0 0;}
+.pic_indent2{margin:4px 25px 0 0;}
+
+/* ============================== other END ====================================== */
+
+.infoBox 
+{
+    background-color:#06B906;
+    border:1px solid #006600;
+    padding:3px;
+    text-align:center;
+    color:#fff;
+    font-weight:bold;
+    margin-bottom:5px;
+    margin-top:-5px;
+    }
+    
+.infoBox a {
+	outline: none;
+	color: #330000;
+	text-decoration:none;
+	border-bottom:dotted 1px #330000;
+}
+
+.infoBox a:hover {
+	text-decoration:none;
+	border-bottom:dotted 1px #06B906;
+	color: #000;}
+
+
+
+/* ============================ footer START ===================================== */
+
+footer a {color: #adadad; text-decoration:underline}
+	footer a:hover{text-decoration:none}
+footer .wrapper{padding-top:15px}
+	.copy{float:left; padding-left:31px}
+	.copy b{margin:0 3px}
+	.footer_link{float:right; padding-right:31px}
+
+/* ============================= footer END ====================================== */
+
+
+
+#quote_form 
+{
+    color:#b8b8b8;
+    }
+    
+#quote_form input, 
+#quote_form select,
+#quote_form textarea 
+{
+    margin:0; 
+    border:1px solid #353535; 
+    color:#b8b8b8; 
+    background:#0d0d0d; 
+    font:13px Arial, Helvetica, sans-serif; 
+    padding:3px 5px 4px; 
+    width:250px; 
+    margin-right:0px;
+    margin-bottom:10px;
+    outline:none}
+    
+#quote_form select 
+{
+    padding:2px;
+    width:260px; 
+    margin-right:20px;
+    }
+        
+#quote_form textarea 
+{
+    width:515px;
+    height:100px;
+    }
+        
+#quote_form .formOverflow
+{
+    overflow:hidden;
+    width:550px;
+    
+    }
+    
+    
+#quote_form #ScrollTable
+{
+    position: relative; left: 0px;
+    }
+    
+#quote_form #ScrollTable table 
+{
+    width:550px;
+    
+    }
+    
+#quote_form #ScrollTable table table
+{
+    width:auto;
+    border:none;
+    }
+    
+#quote_form #ScrollTable input[type="radio"]  
+{
+    width:auto;
+    margin-right:10px;
+    background-color:#000;
+    border:none;
+    }
+   
+#quote_form #state 
+{
+    float:left;
+    width:60px;
+    }
+    
+#quote_form #state select 
+{
+    width:50px;
+    padding:2px;
+    }
+    
+#quote_form #zip input 
+{
+    width:190px;
+    }
+    
+#quote_form .buttons 
+{
+    text-align:right;
+    padding-right:22px;
+    
+    }
+    
+.more 
+{
+    text-decoration:none;
+    border:none;
+    }
+    
+.labelShim 
+{
+    display:block;
+    width:267px;
+    }
+    
+.radioLabel 
+{
+    display:block;
+    margin-bottom:3px;
+    }
